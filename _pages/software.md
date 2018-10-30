@@ -1,4 +1,5 @@
-mlink: /software/
+---
+permalink: /software/
 title: "Software"
 layout: splash
 defaults:
