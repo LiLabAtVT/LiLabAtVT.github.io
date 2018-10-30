@@ -27,26 +27,18 @@ feature_row:
     title: "Phenotype and GWAS study of soybean"
     excerpt: "We are interested in developing computational tools to associate the phenotype and genetic variation of soybean genome"
 feature_row2:
-  - image_path: /assets/images/regulatory_network.jpeg
+  - image_path: /assets/images/machine_learning.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Machine learning"
+    excerpt: 'We utilize advanced statistical and machine learning methods to build novel computational tools'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/field.jpeg
+  - image_path: /assets/images/plants.jpeg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/soybean.jpeg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Plant genomes"
+    excerpt: 'We apply the computational tools to genomes of various plant species'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -55,8 +47,6 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row3" type="center" %}
