@@ -11,7 +11,7 @@ excerpt: "We are driven by genomic data"
 intro:
   - excerpt: 'Our research team focuses on developing computational tools for genome scale data analysis. The goal is to understand the connections between genotypes and phenotypes by developing computational algorithms that integrate large-scale data from genomics, transcriptomics, proteomics and metabolomics.'
 feature_row:
-  - image_path: assets/images/regulatory_network.jpeg
+  - image_path: /assets/images/regulatory_network.jpeg
     alt: "placeholder image 1"
     title: "Regulatory genomics"
     excerpt: "We are interested in developing computational tools to understand gene regulations in plant species."
