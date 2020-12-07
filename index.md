@@ -15,17 +15,22 @@ feature_row:
     alt: "placeholder image 1"
     title: "Regulatory genomics"
     excerpt: "We are interested in developing computational tools to understand gene regulations in plant species."
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/field.jpeg
     alt: "placeholder image 2"
     title: "Pathogen detection"
     excerpt: "We are interested in developing computaional tools to perform early detection of pathogen infection for plants."
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/soybean.jpeg
     title: "Phenotype and GWAS study of soybean"
     excerpt: "We are interested in developing computational tools to associate the phenotype and genetic variation of soybean genome"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/machine_learning.jpg
     alt: "placeholder image 2"
