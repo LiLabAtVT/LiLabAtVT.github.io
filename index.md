@@ -26,8 +26,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/soybean.jpeg
-    title: "Phenotype and GWAS study of soybean"
-    excerpt: "We are interested in developing computational tools to associate the phenotype and genetic variation of soybean genome"
+    title: "Phenomics and GWAS"
+    excerpt: "We are interested in developing computational tools to associate the phenotype with genetic variation of plants"
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -35,15 +35,15 @@ feature_row2:
   - image_path: /assets/images/machine_learning.jpg
     alt: "placeholder image 2"
     title: "Machine learning"
-    excerpt: 'We utilize advanced statistical and machine learning methods to build novel computational tools'
+    excerpt: 'We utilize advanced statistical and machine learning methods in genomics and phenomics research'
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/plants.jpeg
     alt: "placeholder image 2"
-    title: "Plant genomes"
-    excerpt: 'We apply the computational tools to genomes of various plant species'
+    title: "Plant and microbial genomes"
+    excerpt: 'We apply computational tools to study genomes of plant and microbial species'
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
