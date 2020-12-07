@@ -16,7 +16,7 @@ defaults:
 
 ---
 
-Haidong Yan, Qi Song, Jiyoung Lee, John Schiefelbein, Song Li. Identification of cell-type marker genes from plant single-cell RNA-seq data using machine learning. (2020) [[biorxiv]](https://www.biorxiv.org/content/10.1101/2020.11.22.393165v1.abstract), [[Link to code]](https://github.com/LiLabAtVT/SingleCellClassification)
+Haidong Yan, Qi Song, Jiyoung Lee, John Schiefelbein, Song Li. Identification of cell-type marker genes from plant single-cell RNA-seq data using machine learning. (2020) [[biorxiv]](https://www.biorxiv.org/content/10.1101/2020.11.22.393165v1.abstract), [[link to code]](https://github.com/LiLabAtVT/SingleCellClassification)
 
 Qi Song, Jiyoung Lee, Shamima Akter, Matthew Rogers, Ruth Grene, Song Li. Prediction of condition-specific regulatory genes using machine learning. (2020) Nucleic Acids Research [[link to paper]](https://academic.oup.com/nar/article-abstract/48/11/e62/5824611), [[link to code]](https://github.com/songliVT/ConSReg)
 
