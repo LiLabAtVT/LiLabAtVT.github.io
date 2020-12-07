@@ -15,20 +15,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "Regulatory genomics"
     excerpt: "We are interested in developing computational tools to understand gene regulations in plant species."
-    url: "#test-link"
+    url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/field.jpeg
     alt: "placeholder image 2"
     title: "Pathogen detection"
     excerpt: "We are interested in developing computaional tools to perform early detection of pathogen infection for plants."
-    url: "#test-link"
+    url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/soybean.jpeg
     title: "Phenotype and GWAS study of soybean"
     excerpt: "We are interested in developing computational tools to associate the phenotype and genetic variation of soybean genome"
-    url: "#test-link"
+    url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -36,7 +36,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Machine learning"
     excerpt: 'We utilize advanced statistical and machine learning methods to build novel computational tools'
-    url: "#test-link"
+    url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -44,7 +44,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Plant genomes"
     excerpt: 'We apply the computational tools to genomes of various plant species'
-    url: "#test-link"
+    url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
