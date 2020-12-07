@@ -38,6 +38,22 @@ Qi A Song, Nathan S Catlin, W Brad Barbazuk, Song Li. Computational analysis of 
 
 Mimosa Sarma, Jiyoung Lee, Sai Ma, Song Li, Chang Lu. A diffusion-based microfluidic device for single-cell RNA-seq. (2019) Lab on a Chip. [[link to paper]](https://doi.org/10.1039/C8LC00967H)
 
+International Arabidopsis Informatics Consortium, Colleen Doherty, Joanna Friesner, Brian Gregory, Ann Loraine, Molly Megraw, Nicholas Provart, R Keith Slotkin, Chris Town, Sarah M Assmann, Michael Axtell, Tanya Berardini, Sixue Chen, Malia Gehan, Eva Huala, Pankaj Jaiswal, Stephen Larson, Song Li, Sean May, Todd Michael, Chris Pires, Chris Topp, Justin Walley, Eve Wurtele. Arabidopsis bioinformatics resources: The current state, challenges, and priorities for the future. (2019) Plant direct. [[link to paper]](https://doi.org/10.1002/pld3.109)
+
+Qi Song, Ruth Grene, Lenwood S Heath, Song Li. Identification of regulatory modules in genome scale transcription regulatory networks. (2017) BMC systems biology. [[link to paper]](https://link.springer.com/article/10.1186/s12918-017-0493-2)
+
+Neelam Redekar, Guillaume Pilot, Victor Raboy, Song Li, Saghai Maroof. Inference of transcription regulatory network in low phytic acid soybean seeds. (2017) Frontiers in plant science. [[link to paper]](https://www.frontiersin.org/articles/10.3389/fpls.2017.02029/full)
+
+International Arabidopsis Informatics Consortium, Colleen Doherty, Joanna Friesner, Brian Gregory, Ann Loraine, Molly Megraw, Nicholas Provart, R Keith Slotkin, Chris Town, Sarah M Assmann, Michael Axtell, Tanya Berardini, Sixue Chen, Malia Gehan, Eva Huala, Pankaj Jaiswal, Stephen Larson, Song Li, Sean May, Todd Michael, Chris Pires, Chris Topp, Justin Walley, Eve Wurtele. Arabidopsis bioinformatics resources: The current state, challenges, and priorities for the future. (2019) Plant direct. [[link to paper]](https://doi.org/10.1002/pld3.109)
+
+Qi Song, Ruth Grene, Lenwood S Heath, Song Li. Identification of regulatory modules in genome scale transcription regulatory networks. (2017) BMC systems biology. [[link to paper]](https://link.springer.com/article/10.1186/s12918-017-0493-2)
+
+Neelam Redekar, Guillaume Pilot, Victor Raboy, Song Li, Saghai Maroof. Inference of transcription regulatory network in low phytic acid soybean seeds. (2017) Frontiers in plant science. [[link to paper]](https://www.frontiersin.org/articles/10.3389/fpls.2017.02029/full)
+
+Qinghui Mu, Vincent J Tavella, Jay L Kirby, Thomas E Cecere, Matthias Chung, Jiyoung Lee, Song Li, S Ansar Ahmed, Kristin Eden, Irving Coy Allen, Christopher M Reilly, Xin M Luo. Antibiotics ameliorate lupus-like symptoms in mice. (2017) Scientific reports. [[link to paper]](https://doi-org.ezproxy.lib.vt.edu/10.1038/s41598-017-14223-0)
+
+Jos R Wendrich, Barbara K Möller, Song Li, Shunsuke Saiga, Rosangela Sozzani, Philip N Benfey, Bert De Rybel, Dolf Weijers. Framework for gradual progression of cell ontogeny in the Arabidopsis root meristem. (2017) Proceedings of the National Academy of Sciences. [[link to paper]](https://www.pnas.org/content/114/42/E8922.short)
+
 
 
 ---
