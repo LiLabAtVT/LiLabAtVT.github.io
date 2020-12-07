@@ -13,6 +13,7 @@ defaults:
 ---
 
 ## Selected Publications
+
 ---
 
 Haidong Yan, Qi Song, Jiyoung Lee, John Schiefelbein, Song Li. Identification of cell-type marker genes from plant single-cell RNA-seq data using machine learning. (2020) [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.22.393165v1.abstract) [Link to code](https://github.com/LiLabAtVT/SingleCellClassification)
@@ -25,6 +26,9 @@ Marco E Mechan Llontop, Parul Sharma, Marcela Aguilera Flores, Shu Yang, Jill Po
 
 Leila Abdelhamid, Xavier Cabana-Puig, Brianna Swartwout, Jiyoung Lee, Song Li, Sha Sun, Yaqi Li, A Catharine Ross, Thomas E Cecere, Tanya LeRoith, Stephen R Werre, Haifeng Wang, Christopher M Reilly, Xin M Luo. Retinoic Acid Exerts Disease Stage-Dependent Effects on Pristane-Induced Lupus. (2020) Frontiers in immunology. [link to paper](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00408/full?report=reader)
 
+Haidong Yan, Aureliano Bombarely, Song Li. DeepTE: a computational method for de novo classification of transposons with convolu-tional neural network. (2020) Bioinformatics. [Link to paper](https://academic.oup.com/bioinformatics/article-abstract/36/15/4269/5838183?redirectedFrom=fulltext) [link to code](https://github.com/LiLabAtVT/DeepTE)
+
+Jiyoung Lee, Lenwood S Heath, Ruth Grene, Song Li. Comparing time series transcriptome data between plants using a network module finding algorithm. (2020) Plant methods. [link to paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0440-x) [link to code](https://github.com/LiLabAtVT/CompareTranscriptome)
 
 
 
