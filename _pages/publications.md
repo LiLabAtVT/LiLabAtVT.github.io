@@ -54,7 +54,15 @@ Qinghui Mu, Vincent J Tavella, Jay L Kirby, Thomas E Cecere, Matthias Chung, Jiy
 
 Jos R Wendrich, Barbara K Möller, Song Li, Shunsuke Saiga, Rosangela Sozzani, Philip N Benfey, Bert De Rybel, Dolf Weijers. Framework for gradual progression of cell ontogeny in the Arabidopsis root meristem. (2017) Proceedings of the National Academy of Sciences. [[link to paper]](https://www.pnas.org/content/114/42/E8922.short)
 
+David C Haak, Takeshi Fukao, Ruth Grene, Zhihua Hua, Rumen Ivanov, Giorgio Perrella, Song Li. Multilevel regulation of abiotic stress responses in plants. (2017) Frontiers in plant science. [[link to paper]](https://www.frontiersin.org/articles/10.3389/fpls.2017.01564/full)
 
+Shan Sun, Song Li, Bethany N Avera, Brian D Strahm, Brian D Badgley. Soil bacterial and fungal communities show distinct recovery patterns during forest ecosystem restoration. (2017) Applied and Environmental Microbiology. [[link to paper]](https://aem.asm.org/content/83/14/e00966-17.short)
+
+Ying Ni, Delasa Aghamirzaie, Haitham Elmarakeby, Eva Collakova, Song Li, Ruth Grene, Lenwood S Heath. A machine learning approach to predict gene regulatory networks in seed development in Arabidopsis. (2016) Frontiers in plant science. [[link to paper]](https://www.frontiersin.org/articles/10.3389/fpls.2016.01936/full)
+
+Erin E Sparks, Colleen Drapek, Allison Gaudinier, Song Li, Mitra Ansariola, Ning Shen, Jessica H Hennacy, Jingyuan Zhang, Gina Turco, Jalean J Petricka, Jessica Foret, Alexander J Hartemink, Raluca Gordân, Molly Megraw, Siobhan M Brady, Philip N Benfey. Establishment of Expression in the SHORTROOT-SCARECROW Transcriptional Cascade through Opposing Activities of Both Activators and Repressors. (2016) Developmental cell. [[link to paper]](https://doi.org/10.1016/j.devcel.2016.09.031) 
+
+Delasa Aghamirzaie, Eva Collakova, Song Li, Ruth Grene. CoSpliceNet: a framework for co-splicing network inference from transcriptomics data. (2016) BMC genomics. [[link to paper]](https://link.springer.com/article/10.1186/s12864-016-3172-6)
 
 ---
 ## See All [Publications](https://scholar.google.com/citations?user=mF72CdUAAAAJ&hl=en).
