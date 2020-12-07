@@ -9,7 +9,7 @@ header:
   cta_url: "https://github.com/LiLabAtVT"
 excerpt: "We are driven by genomic data"
 intro:
-  - excerpt: 'Our research focuses on developing computational tools for genome scale data analysis. The goal is to understand the connections between genotypes and phenotypes by developing computational algorithms that integrate large-scale data from genomics, transcriptomics, proteomics and metabolomics.'
+  - excerpt: 'Our research focuses on developing computational tools for genome scale data analysis. The goal is to understand the connections between genotypes and phenotypes by developing computational algorithms that integrate genome and phenome data.'
 feature_row:
   - image_path: /assets/images/regulatory_network.jpeg
     alt: "placeholder image 1"
