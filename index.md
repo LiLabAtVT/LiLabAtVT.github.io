@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/header.jpeg
   cta_label: "Our GitHub Repository"
   cta_url: "https://github.com/LiLabAtVT"
-excerpt: "We are driven by genomic data"
+excerpt: "We are driven by big data in plant genomics and phenomics."
 intro:
   - excerpt: 'Our research focuses on developing computational tools for genome scale data analysis. The goal is to understand the connections between genotypes and phenotypes by developing computational algorithms that integrate genome and phenome data.'
 feature_row:
