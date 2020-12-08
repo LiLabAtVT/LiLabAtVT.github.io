@@ -15,7 +15,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Regulatory genomics"
     excerpt: "We are interested in developing computational tools to understand gene regulations in plant species."
-    url: "https://github.com/LiLabAtVT"
+    url: /_posts/2018-11-13-CoReg.md
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/field.jpeg
