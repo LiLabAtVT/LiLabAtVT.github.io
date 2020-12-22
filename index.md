@@ -25,7 +25,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Disease detection"
     excerpt: "With sequencing and imaging."
-    url: "https://github.com/LiLabAtVT"
+    url: /research/DiseaseDetection/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/soybean.jpeg
