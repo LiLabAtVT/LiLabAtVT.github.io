@@ -14,7 +14,7 @@ intro:
               Our approach is to use interpretable machine learning methods to extract meaningful information from big data and to make actionable predictions.'
 
 feature_row:
-  - image_path: /assets/images/myb_network.png
+  - image_path: /assets/images/myb_network1.jpg
     alt: "placeholder image 1"
     title: "Regulatory genomics"
     excerpt: "Understand gene regulation using networks."
