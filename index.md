@@ -9,11 +9,11 @@ header:
   cta_url: "https://github.com/LiLabAtVT"
 excerpt: "We are driven by the revolution of big data and AI in plant biology and agriculture."
 intro:
-  - excerpt: 'Our research focuses on developing computational tools for genomic and phenomic data analysis. 
+  - excerpt: '* Our research focuses on developing computational tools for genomic and phenomic data analysis. 
               
-              We are interested in understanding the connections between genotypes and phenotypes. 
+              * We are interested in understanding the connections between genotypes and phenotypes. 
               
-              Our approach is to use interpretable machine learning methods to extract meaningful information from big data and to make actionable predictions.'
+              * Our approach is to use interpretable machine learning methods to extract meaningful information from big data and to make actionable predictions.'
 
 feature_row:
   - image_path: /assets/images/regulatory_network.jpeg
