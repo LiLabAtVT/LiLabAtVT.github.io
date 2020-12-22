@@ -10,7 +10,7 @@ tags:
   - hyperspectral imaging
 ---
 
-We are working on developing machine learning methods to detect plant diseases before visible symptoms emerge. We use hyperspectral imaging to detect changes in plant reflectance that are difficult to detect in RGB images. We also use Nanopore sequencing to detect plant pathogen DNA in plant samples before symptoms emerge. 
+We work on developing machine learning methods to detect plant diseases before visible symptoms emerge. We use hyperspectral imaging to detect changes in plant reflectance that are indicative of pathogen infection. We also use Nanopore sequencing to detect pathogen DNA in plant samples to determine whether plant has been infected or not. 
 
 **Culture-free pathogen detection using nanopore sequencing.** Nanopore sequencing is an emerging technology and Oxford MinION platform allows sequencing experiments to be performed in field conditions. We use both inoculated samples and field samples to develop methods for real-time pathogen detection using whole genome, meta-genomic sequencing. The advantage is that our method does not require culture or amplification of target pathogen DNA. We have developed methods for detecting tomato pathogens including *Pseudomonas* and *Xanthomonas* species. We are also testing our approach for boxwood blight pathogen and grapevine pathogen, *Xylella fastidiosa*. 
 
