@@ -18,7 +18,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Regulatory genomics"
     excerpt: "Understand gene regulation using networks."
-    url: /research/CoReg/
+    url: /research/RegulatoryGenomics/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/field.jpeg
