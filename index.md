@@ -7,27 +7,27 @@ header:
   overlay_image: /assets/images/header.jpeg
   cta_label: "Our GitHub Repository"
   cta_url: "https://github.com/LiLabAtVT"
-excerpt: "We are driven by big data in plant genomics and phenomics."
+excerpt: "We are driven by the revolution of big data and AI in genomics and phenomics."
 intro:
-  - excerpt: 'Our research focuses on developing computational tools for genome scale data analysis. The goal is to understand the connections between genotypes and phenotypes by developing computational algorithms that integrate genome and phenome data.'
+  - excerpt: 'Our research focuses on developing computational tools for genomic and phenomic data analysis. We are interested in understanding the connections between genotypes and phenotypes. Our approach is to use interpretable machine learning methods to extract meaningful information from big data and to make actionable predictions.'
 feature_row:
   - image_path: /assets/images/regulatory_network.jpeg
     alt: "placeholder image 1"
     title: "Regulatory genomics"
-    excerpt: "We are interested in developing computational tools to understand gene regulations in plant species."
+    excerpt: "Understand gene regulation using networks."
     url: /research/CoReg/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/field.jpeg
     alt: "placeholder image 2"
     title: "Pathogen detection"
-    excerpt: "We are interested in developing computaional tools to perform early detection of pathogen infection for plants."
+    excerpt: "Early detection of plant diseases."
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/soybean.jpeg
     title: "Phenomics and GWAS"
-    excerpt: "We are interested in developing computational tools to associate the phenotype with genetic variation of plants"
+    excerpt: "Associate the phenotype with genetic variations in plants"
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
