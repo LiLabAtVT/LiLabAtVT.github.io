@@ -8,7 +8,6 @@ tags:
   - machine learning
   - single cell 
 ---
-# Regulatory genomics
 We are interested in understanding gene regulation using network biology and machine learning approaches. We have developed several computational tools to analyze and predict key regulators of gene expression by integrating gene expression, protein-DNA interaction and epigenomic regulations.  
 
 **ConSReg** is a machine learning pipeline which select best candidate regulatory gene by integrating DAP-seq, RNA-seq and ATAC-seq data in Arabidopsis. ConSReg have been tested using both bulk RNA-seq and single cell RNA-seq data. Based on benchmark using known regulatory transcription factors, ConSReg performs better than commonly used enrichment test and provide higher ranking for known TFs. We also found that including ATAC-seq in the model substantially improves the model performance. 
