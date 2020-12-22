@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/soybean.jpeg
     title: "Phenomics and GWAS"
     excerpt: "Associate phenotypes with genetic variations"
-    url: "https://github.com/LiLabAtVT"
+    url: /research/Phenotyping/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
