@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Lab of Plant Genomics and Bioinformatics"
+title                    : "Li Lab of Applied Machine Learning in Genomics and Phenomics"
 title_separator          : "-"
 name                     : "Song Li"
 description              : "Li lab's website"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Song Li"
   avatar           : "/assets/images/songli.jpeg"
-  bio              : "Assistant professor of plant genomics at Virginia Tech."
+  bio              : "Associate professor at Virginia Tech."
   location         : "Blacksburg, VA"
   email            : "songli@vt.edu"
   links:
