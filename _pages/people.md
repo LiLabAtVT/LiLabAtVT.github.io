@@ -55,3 +55,25 @@ Stacey Oh, Project, quantification of protein and oil content in soybean seeds w
 Edward Liu, Project, plant disease dection using machine learning in an android device. 
 
 Tianshu Xu, Project, field scale phenotyping using a self driving ground robot and 3D LiDAR.
+
+## Group photos
+Alex graudation party, Fall 2019
+![](/assets/images/group/AlexFarewell_2019.jpg)
+
+Group retreat at Claytor Lake, summer 2019
+![](/assets/images/group/GroupJune2019.jpg)
+
+IBM hackathon 2019
+![](/assets/images/group/IBMHackathon_April2019.jpg)
+
+Field phenotpying data collection wiht drone and robots 2019
+![](/assets/images/group/QianAndJames_withDrone.jpg)
+![](/assets/images/group/Harnaik_2019_withRobot.jpg)
+
+End of year celebration 2018
+![](/assets/images/group/GroupDec2018.jpg)
+
+Field work day at Kentland farm, planting edamame 2018
+![](/assets/images/group/FieldDayKentland2018.jpg)
+
+
