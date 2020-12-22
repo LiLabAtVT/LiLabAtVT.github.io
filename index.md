@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/soybean.jpeg
     title: "Phenomics and GWAS"
-    excerpt: "Associate the phenotype with genetic variations in plants"
+    excerpt: "Associate phenotypes with genetic variations"
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
