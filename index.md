@@ -23,8 +23,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/field.jpeg
     alt: "placeholder image 2"
-    title: "Pathogen detection"
-    excerpt: "Early detection of plant diseases."
+    title: "Disease detection"
+    excerpt: "With sequencing and imaging."
     url: "https://github.com/LiLabAtVT"
     btn_label: "Read More"
     btn_class: "btn--primary"
