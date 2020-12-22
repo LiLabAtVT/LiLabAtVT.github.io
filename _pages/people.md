@@ -66,14 +66,14 @@ Group retreat at Claytor Lake, summer 2019
 IBM hackathon 2019
 ![](/assets/images/group/IBMHackathon_April2019.jpg)
 
-Field phenotpying data collection wiht drone and robots 2019
+Field phenotpying with drone and groud robot 2019
 ![](/assets/images/group/QianAndJames_withDrone.jpg)
 ![](/assets/images/group/Harnaik_2019_withRobot.jpg)
 
 End of year celebration 2018
 ![](/assets/images/group/GroupDec2018.jpg)
 
-Field work day at Kentland farm, planting edamame 2018
+Field work day at Kentland farm 2018
 ![](/assets/images/group/FieldDayKentland2018.jpg)
 
 
