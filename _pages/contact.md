@@ -12,7 +12,7 @@ defaults:
       author_profile: false
 ---
 
-##Available Positions
+## Available Positions
 **Postdoctoral**
 A postdoctoral position is available starting spring 2021. The project is to study gene regulation at single cell level in plant roots. We are using both Arabidopsis and related Brassicaceae species as our model system to characterize stress response genes in roots. Required qualifications: the applicant should have strong background in bioinformatics/computational biology; Familiar with Linux command line environment. Must have programing experience in R or python. Knowledge of developing deep learning models using tensorflow or machine learning using scikit-learn is preferred. 
 
