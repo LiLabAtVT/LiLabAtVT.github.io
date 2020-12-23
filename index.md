@@ -11,7 +11,8 @@ excerpt: "We are driven by the revolution of big data and AI in plant biology an
 intro:
   - excerpt: 'Our research focuses on developing computational tools for genomic and phenomic data analysis. 
               We are interested in understanding the connections between genotypes and phenotypes. 
-              Our approach is to use interpretable machine learning methods to extract meaningful information from big data and to make actionable predictions.'
+              Our approach is to use interpretable machine learning methods to extract meaningful information from big data and to make actionable predictions.
+              Postdoc and graduate position available in 2021[](/contact/)'
 
 feature_row:
   - image_path: /assets/images/myb_network2.jpg
