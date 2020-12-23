@@ -22,4 +22,4 @@ A graduate research association position is available starting Spring 2021. The 
 **Undergraduate**
 We are seeking eager students that would like acquire coding experience in a wide-range of computational project such as deep learning networks, computer vision, edge computing, drone image analysis, and genomics and bioinformatics at single cell level. 
 
-**Interested applicants should [[contact us]] ** (https://spes.vt.edu/faculty-staff/faculty/li-song.html)
+Interested applicants should [[**contact us**]](https://spes.vt.edu/faculty-staff/faculty/li-song.html)
