@@ -5,8 +5,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/header.jpeg
-  cta_label: "Our GitHub Repository"
-  cta_url: "https://github.com/LiLabAtVT"
+  cta_label: "Join Us!"
+  cta_url: /contact/
 excerpt: "We are driven by the revolution of big data and AI in plant biology and agriculture."
 intro:
   - excerpt: 'Our research focuses on developing computational tools for genomic and phenomic data analysis. 
