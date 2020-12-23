@@ -11,6 +11,8 @@ defaults:
       layout: splash
       author_profile: false
 ---
+## New position available (2021)
+[Join Us!](/contact/)
 
 ## Current member
 
