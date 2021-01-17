@@ -19,7 +19,7 @@ A postdoctoral position is available starting spring 2021. The project is to stu
 
 **Graduate student in robotic-assisted plant disease detection.**
 
-A graduate research associate position is available starting Spring 2021. The project is to develop machine learning models and perform experimental analysis for plant diseases. This project will involve using robotic systems to automatically sample plant leaves and testing the presence of pathogen using nanopore sequencing. Interested students can apply through the TPS program or GBCB program at Virginia Tech. 
+A graduate research associate position is available starting Spring 2021. The project is to develop machine learning models and perform experimental analysis for plant diseases. This project will involve using robotic systems to automatically sample plant leaves and testing the presence of pathogens using nanopore sequencing. Interested students can apply through the TPS program or GBCB program at Virginia Tech. 
 
 **Graduate student in machine learning, nanopore sequencing and plant pathon detection.**
 
