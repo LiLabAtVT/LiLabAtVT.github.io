@@ -11,36 +11,49 @@ defaults:
       layout: splash
       author_profile: false
 ---
-## New position available (2021)
+## New position available (2022)
 [Join Us!](/contact/)
 
 ## Current member
-
-Jiyoung Lee, Postdoc associate, Project: Analysis of single cell gene expression and regulatory networks in plant roots and in mammalian immune system. 
 
 Kshitiz Dhakar, Graudate student, Project: Field scale phenotyping, GWAS analysis, hyperspectral imaging.
 
 Marcela Aguilera, Graduate student (joint with Boris Vinatzer): Plant pathogen detection using nanopore sequencing and machine learning.
 
-Zhiyi Li, Graduate research associate: Deep learning for plant phenotyping. 
+Tran Chau (Nina), Graudate student, Project: Single cell cross species comparison. 
 
-Xing Wei, Graduate student (with Hillary Mehl): Plant disease detection using spectral imaging and machine learning. 
+Xuemei Zhang (Missi), Postdoc associate, Project: Plant disease detection using hyperspectral imaging and CRISPR.
+
+Prakash Timilsina (PR),  Postdoc associate, Project: Single cell analysis and machine learning.
+
+Sai Deepak Gattidi, Master student, Project: Single Cell GO analysis.
+
+Upasana Sivaramakrishnan, Master student, Project: Robotics and plant disease detection using hyperspectral imaging.
+
+Kassaye Baley, Graduate student (joint with Boris Vinatzer), Project: Phylogenetic analysis of plant pathogens. 
+
+Zhibo Wang, Postdoc associate (joint with Bo Zhang), Project: whole genome resequencing using Nanopore, genome editing of edamame.
 
 ## Alumni 
+Zhiyi Li, Graduate research associate: Deep learning for plant phenotyping. Current Position (2022), Postdoc Associate at Oak Ridge National Lab.
 
-Haidong Yan, Ph.D. Graduate student, Current position, Postdoc Associate in University of Georgia.
+Xing Wei, Graduate student (with Hillary Mehl): Current position (2022), Postdoc Associate at Purdue University.
 
-Qi Song (Alex), Ph.D. Graduate student, Current position, Postdoc Associate in Harvard Medical School/Carnigie Mellon University.
+Jiyoung Lee, Postdoc associate, Current position (2022), Nanjing Agriculture University. 
 
-Shamima Akter, Master student, Current position, Research Associate at College of Veterinary Medcine, Virginia Tech.
+Haidong Yan, Ph.D. Graduate student, Current position (2022), Postdoc Associate at University of Georgia.
 
-James Friel, Post master research associate, Current position, Graduate student at University of Milan.
+Qi Song (Alex), Ph.D. Graduate student, Current position (2022), Postdoc Associate at Carnigie Mellon University.
 
-Qian Zhu, Ph.D. Graduate student, Current position, Anhui Academy of Agricultural Sciences.
+Shamima Akter, Master student, Current position (2019), Research Associate at College of Veterinary Medcine, Virginia Tech.
 
-Harnaik Dhami, Master student (with Pratap Tokekar), Current position, Graduate student at University of Maryland
+James Friel, Post master research associate, Current position (2019), Graduate student at University of Milan.
 
-Dhivyaa Rajasundaram, Postdoctoral Fellow. Current position: Core Lead, Bioinformatics Core at Children’s Hospital of Pittsburgh.
+Qian Zhu, Ph.D. Graduate student, Current position (2019), Anhui Academy of Agricultural Sciences.
+
+Harnaik Dhami, Master student (with Pratap Tokekar), Current position (2019), Graduate student at University of Maryland
+
+Dhivyaa Rajasundaram, Postdoctoral Fellow. Current position (2019): Core Lead, Bioinformatics Core at Children’s Hospital of Pittsburgh.
 
 ## Past undergraduate students
 
