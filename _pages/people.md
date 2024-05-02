@@ -16,11 +16,37 @@ defaults:
 
 ## Current member
 
-Kshitiz Dhakar, Graudate student, Project: Field scale phenotyping, GWAS analysis, hyperspectral imaging.
 
-Marcela Aguilera, Graduate student (joint with Boris Vinatzer): Plant pathogen detection using nanopore sequencing and machine learning.
 
-Tran Chau (Nina), Graudate student, Project: Single cell cross species comparison. 
+Tran Chau (Nina), Graduate student, Project: Ortho-Marker Gene (OMG) for cross-species single-cell data comparison and integration. 
+
+Sanchari Kundu, Graduate student, Project: ImageCell3D: Single-cell 3D expression map and comparative genomics for gene expression analysis in Brassicaceae
+
+Upasana Sivaramakrishnan, Master student (thesis), Project: SAMPLS, Apply Segment Anything Model for Plant Science Research. 
+
+Razan Alajoleen, Postdoc associate, Project: Analysis of single cell and spatial transcriptome data, nanopore sequencing for plant metagenomics. 
+
+Adwait Kaundanya, Master student (thesis), Project: develop I2GROW Oasis and mini T-REX for robotic-assisted plant phenotyping. 
+
+Sandeep Chinnareddy, Master student (thesis), Project: SOAP, machine learning pipeline for source attribution for plant pathogens.
+
+Shadab Haque,  Master student (non-thesis), Project: Finetune foundation models for plant image analysis. 
+
+Peter Forstner, Graduate student (joint with Eva Collokova), Project: I2GROW-wasted, exploring food waste as a nutrient source for hydroponic farming. 
+
+Kassaye Baley, Graduate student (joint with Boris Vinatzer), Project: Phylogenetic analysis of plant pathogens. 
+
+
+
+## Alumni 
+
+Sai Pavan Bathala, Master student, Current position (2024): Software developer at Bloomberg. MS Project: The OMG (ortho marker gene) browser 1.0.  
+
+Kshitiz Dhakar, Graudate student, Current position (2023): Digital Ag Data Scientist, Corteva Crop Science. Ph.D. Project: Field scale phenotyping, GWAS analysis, hyperspectral imaging. 
+
+Marcela Aguilera, Graduate student (joint with Boris Vinatzer), Current position (2023): Postdoc Johnson and Johnson. Ph.D. Project: Plant pathogen detection using nanopore sequencing and machine learning.
+
+Zhibo Wang, Postdoc associate (joint with Bo Zhang), Project: whole genome resequencing using Nanopore, genome editing of edamame.
 
 Xuemei Zhang (Missi), Postdoc associate, Project: Plant disease detection using hyperspectral imaging and CRISPR.
 
@@ -28,13 +54,6 @@ Prakash Timilsina (PR),  Postdoc associate, Project: Single cell analysis and ma
 
 Sai Deepak Gattidi, Master student, Project: Single Cell GO analysis.
 
-Upasana Sivaramakrishnan, Master student, Project: Robotics and plant disease detection using hyperspectral imaging.
-
-Kassaye Baley, Graduate student (joint with Boris Vinatzer), Project: Phylogenetic analysis of plant pathogens. 
-
-Zhibo Wang, Postdoc associate (joint with Bo Zhang), Project: whole genome resequencing using Nanopore, genome editing of edamame.
-
-## Alumni 
 Zhiyi Li, Graduate research associate: Deep learning for plant phenotyping. Current Position (2022), Postdoc Associate at Oak Ridge National Lab.
 
 Xing Wei, Graduate student (with Hillary Mehl): Current position (2022), Postdoc Associate at Purdue University.
