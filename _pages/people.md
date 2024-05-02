@@ -16,7 +16,7 @@ defaults:
 Spring party at Wikiteria
 ![](/assets/images/group/Wikiteria_20240415.jpg)
 
-## Current member
+## Current members
 
 Tran Chau (Nina), Graduate student, Project: Ortho-Marker Gene (OMG) for cross-species single-cell data comparison and integration. 
 
