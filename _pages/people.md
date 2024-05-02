@@ -13,7 +13,7 @@ defaults:
 ---
 
 ## New group photos
-Spring party at Wikiteria
+Spring party at Wikiteria April 2024
 ![](/assets/images/group/Wikiteria_20240415.jpg)
 
 ## Current members
