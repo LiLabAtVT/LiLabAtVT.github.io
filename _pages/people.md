@@ -37,6 +37,10 @@ Maryam Haghani, Graduate student, Project: Large language model for regulatory s
 
 Razan Alajoleen, Postdoc associate, Project: Analysis of single cell and spatial transcriptome data, nanopore sequencing for plant metagenomics. 
 
+Krishna Dhulipalla, Master student, Project: single cell co-expression ShinyR website, OMG ShinyR website, HyenaDNA-DAP-seq. 
+
+Chirag Vijay Patil, Master student, Project: Grounding DINO on plant confocal images; SAM for hyperspectral images. 
+
 Peter Forstner, Graduate student (joint with Eva Collokova), Project: I2GROW-wasted, exploring food waste as a nutrient source for hydroponic farming. 
 
 Kassaye Baley, Graduate student (joint with Boris Vinatzer), Project: Phylogenetic analysis of plant pathogens. 
