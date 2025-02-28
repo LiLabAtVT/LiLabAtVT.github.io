@@ -16,6 +16,12 @@ defaults:
 Spring party at Cobo Fish Feburary 2025
 ![](/assets/images/group/CaboFish_Feb2025.jpg)
 
+Mountain lake and bald knob Oct 2024
+![](/assets/images/group/MountainLake_BaldKnob_20241012.jpg)
+
+CEA East Summit Oct 2024
+![](/assets/images/group/CEAEAST_20241002.jpg)
+
 Spring party at Wikiteria April 2024
 ![](/assets/images/group/Wikiteria_20240415.jpg)
 
