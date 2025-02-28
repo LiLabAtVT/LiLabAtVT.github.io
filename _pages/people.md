@@ -13,6 +13,9 @@ defaults:
 ---
 
 ## New group photos
+Spring party at Cobo Fish Feburary 2025
+![](/assets/images/group/CaboFish_Feb2025.jpg)
+
 Spring party at Wikiteria April 2024
 ![](/assets/images/group/Wikiteria_20240415.jpg)
 
@@ -22,15 +25,11 @@ Tran Chau (Nina), Graduate student, Project: Ortho-Marker Gene (OMG) for cross-s
 
 Sanchari Kundu, Graduate student, Project: ImageCell3D: Single-cell 3D expression map and comparative genomics for gene expression analysis in Brassicaceae
 
-Upasana Sivaramakrishnan, Master student (thesis), Project: SAMPLS, Apply Segment Anything Model for Plant Science Research. 
+Manisha Chaudhary, Graduate student, Project: Microbiome for human gut health and plant diseases. 
+
+Maryam Haghani, Graduate student, Project: Large language model for regulatory sequence and protein structure modeling.
 
 Razan Alajoleen, Postdoc associate, Project: Analysis of single cell and spatial transcriptome data, nanopore sequencing for plant metagenomics. 
-
-Adwait Kaundanya, Master student (thesis), Project: develop I2GROW Oasis and mini T-REX for robotic-assisted plant phenotyping. 
-
-Sandeep Chinnareddy, Master student (thesis), Project: SOAP, machine learning pipeline for source attribution for plant pathogens.
-
-Shadab Haque,  Master student (non-thesis), Project: Finetune foundation models for plant image analysis. 
 
 Peter Forstner, Graduate student (joint with Eva Collokova), Project: I2GROW-wasted, exploring food waste as a nutrient source for hydroponic farming. 
 
@@ -39,7 +38,13 @@ Kassaye Baley, Graduate student (joint with Boris Vinatzer), Project: Phylogenet
 
 
 ## Alumni 
+Upasana Sivaramakrishnan, Master student (thesis), Project: SAMPLS, Apply Segment Anything Model for Plant Science Research. 
 
+Adwait Kaundanya, Master student (thesis), Project: develop I2GROW Oasis and mini T-REX for robotic-assisted plant phenotyping. 
+
+Sandeep Chinnareddy, Master student (thesis), Project: SOAP, machine learning pipeline for source attribution for plant pathogens.
+
+Shadab Haque,  Master student (non-thesis), Project: Finetune foundation models for plant image analysis. 
 Sai Pavan Bathala, Master student, Current position (2024): Software developer at Bloomberg. MS Project: The OMG (ortho marker gene) browser 1.0.  
 
 Kshitiz Dhakar, Graudate student, Current position (2023): Digital Ag Data Scientist, Corteva Crop Science. Ph.D. Project: Field scale phenotyping, GWAS analysis, hyperspectral imaging. 
